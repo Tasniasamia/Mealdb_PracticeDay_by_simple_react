@@ -1,0 +1,15 @@
+.card_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:10px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.sidebar_container{
+    background-color: darkgray;
+    height: 600px;
+    position: sticky;
+    top:0;
+}

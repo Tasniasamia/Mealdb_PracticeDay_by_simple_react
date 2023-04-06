@@ -1,0 +1,9 @@
+.card{
+    background-color: pink;
+    position: relative;
+}
+.baton{
+    position:absolute;
+    bottom: 0;
+    left:0;
+}
